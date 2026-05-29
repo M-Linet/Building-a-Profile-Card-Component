@@ -11,3 +11,9 @@ This project fulfills the following requirements:
 - ✅ Kenyan representation (Nairobi-based developer)
 - ✅ CSS styling with borders and proper spacing
 - ✅ Clean, well-documented code structure
+
+### Open browser to:
+http://localhost:5173
+
+
+
